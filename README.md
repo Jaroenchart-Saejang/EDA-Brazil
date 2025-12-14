@@ -20,17 +20,17 @@ This is real commercial data, it has been anonymised, and references to the comp
 
 จากโจทย์ที่ได้รับ ผมต้องการนำเสนอแนวคิดเกี่ยวกับรูปแบบของแดชบอร์ดที่ผมจะพัฒนาสำหรับแพลตฟอร์ม Sritrang Friend หากมีโอกาสร่วมงาน โดยผมมองว่าเกษตรกรสามารถถูกพิจารณาเสมือนว่าเป็นเป็นลูกค้าภายในชุดข้อมูลนี้ อีกทั้งยังมีข้อมูลตำแหน่งทางภูมิศาสตร์ (Geolocation) ของลูกค้าแต่ละราย ซึ่งสามารถนำมาใช้ในการวิเคราะห์และออกแบบแดชบอร์ด โดยหัวข้อต่อไปนี้คือ Dashboard ที่ผมคิดว่าน่าสนใจ
 
-1.) Customer churn
-2.) Customer Segmentation
-3.) GIS base
-3.1) Region base
-4.) NLP
-5.) Clustering
-6.) Overall dashboard (Home)
-7.) Time series/ Trend (This year last year compare )
-8.) เส้นทางการเดินทาง
-9.) Sales
-10.) Cohort
+  1.) Customer churn
+  2.) Customer Segmentation
+  3.) GIS base
+  3.1) Region base
+  4.) NLP
+  5.) Clustering
+  6.) Overall dashboard (Home)
+  7.) Time series/ Trend (This year last year compare )
+  8.) เส้นทางการเดินทาง
+  9.) Sales
+  10.) Cohort
 
 Retention analysis
 
